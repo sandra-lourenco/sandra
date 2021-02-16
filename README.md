@@ -1,3 +1,3 @@
 # sandra
 
-The Tech Career GPS 
+Landing page made for The Tech Career GPS 
